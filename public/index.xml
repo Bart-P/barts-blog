@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Barts E-Comm &amp; Tech</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Barts E-Comm &amp; Tech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Bart P</copyright>
+    <lastBuildDate>Wed, 29 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>and a third one for good measure</title>
+      <link>http://localhost:1313/posts/1716959744625-and-a-third-one-for-good-measure/</link>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/1716959744625-and-a-third-one-for-good-measure/</guid>
+      <description>an example to get you started</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/1716959744625-and-a-third-one-for-good-measure/featured.png" />
+    </item>
+    
+    <item>
+      <title>another one bites the dust</title>
+      <link>http://localhost:1313/posts/1716959758172-another-one-bites-the-dust/</link>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/1716959758172-another-one-bites-the-dust/</guid>
+      <description>an example to get you started</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/1716959758172-another-one-bites-the-dust/featured.png" />
+    </item>
+    
+    <item>
+      <title>some other post</title>
+      <link>http://localhost:1313/posts/1716959725095-some-other-post/</link>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/1716959725095-some-other-post/</guid>
+      <description>an example to get you started</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/1716959725095-some-other-post/featured.png" />
+    </item>
+    
+    <item>
+      <title>first-post</title>
+      <link>http://localhost:1313/posts/1716920230891-first-post/</link>
+      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/1716920230891-first-post/</guid>
+      <description>an example to get you started</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/1716920230891-first-post/featured.png" />
+    </item>
+    
+    <item>
+      <title>My First Blog Post</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>Learn more about me and why I am starting this blog.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
